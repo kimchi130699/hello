@@ -1,1 +1,2 @@
-hi my name is kim chi
+if (1==2)
+a=5;
